@@ -7,3 +7,8 @@ var c=a+b;
 ```
 > click
 > [link](www.google.com)
+- [ ] First
+
+- [x] sec
+
+- [ ] third
